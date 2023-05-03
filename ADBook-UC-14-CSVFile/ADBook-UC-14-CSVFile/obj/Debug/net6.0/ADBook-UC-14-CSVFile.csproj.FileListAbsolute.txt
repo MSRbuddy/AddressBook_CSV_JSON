@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\CSVandJSON\CSVandJSON\ADBook-UC-14-CSVFile\ADBook-UC-14-CSVFile\obj\Debug\net6.0\ADBook-UC-14-CSVFile.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\CSVandJSON\CSVandJSON\ADBook-UC-14-CSVFile\ADBook-UC-14-CSVFile\obj\Debug\net6.0\ADBook-UC-14-CSVFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\CSVandJSON\CSVandJSON\ADBook-UC-14-CSVFile\ADBook-UC-14-CSVFile\obj\Debug\net6.0\ADBook-UC-14-CSVFile.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\CSVandJSON\CSVandJSON\ADBook-UC-14-CSVFile\ADBook-UC-14-CSVFile\obj\Debug\net6.0\ADBook-UC-14-CSVFile.AssemblyInfo.cs
+C:\Users\USER\source\repos\CSVandJSON\CSVandJSON\ADBook-UC-14-CSVFile\ADBook-UC-14-CSVFile\obj\Debug\net6.0\ADBook-UC-14-CSVFile.csproj.CoreCompileInputs.cache

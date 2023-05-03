@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bz+vTFL0l+VIEa4uweQ/++6Pkzg/CIQT/atNu+HHXvDKdZ64SISr0B9rmrjC/C3TAi8j1NZN24kdcsaz8BOtfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\CSVandJSON\\CSVandJSON\\ADBook-UC-14-CSVFile\\ADBook-UC-14-CSVFile\\ADBook-UC-14-CSVFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
