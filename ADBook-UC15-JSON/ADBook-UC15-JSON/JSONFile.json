@@ -1,0 +1,18 @@
+{
+  "person info": [
+    {
+      "ContactArray": [],
+      "contact": 0,
+      "stateList": null,
+      "cityList": null,
+      "firstName": "Meghana",
+      "lastName": "Dasari",
+      "Address": "Dharpally",
+      "city": "Nizamabad",
+      "state": "Telanagana",
+      "zip": "503165",
+      "phoneNumber": "9876543210",
+      "email": "meghanadasari@gmail.com"
+    }
+  ]
+}
